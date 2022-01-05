@@ -1,0 +1,101 @@
+club_name,competition_name,squad_size,avg_player_age,markt_val_of_club_in_mil_£,avg_markt_val_of_player_in_mil_£,markt_val_top_18_players_in_mil_£
+"1.FSV Mainz 05",Bundesliga,25,25.7,96,4,90
+"AC Milan","Serie A",29,26.8,429,15,390
+"ACF Fiorentina","Serie A",26,27.0,228,9,214
+"AFC Bournemouth",Championship,26,25.7,104,4,100
+"Ajax Amsterdam",Eredivisie,25,25.7,305,12,283
+"Arsenal FC","Premier League",26,25.4,507,20,454
+"AS Monaco","Ligue 1",29,24.4,331,11,292
+"AS Roma","Serie A",30,25.2,386,13,349
+"AS Saint-Etienne","Ligue 1",27,24.3,90,3,81
+"Aston Villa","Premier League",25,25.6,372,15,354
+"Atalanta BC","Serie A",26,27.3,374,14,343
+"Athletic Bilbao",LaLiga,26,26.5,182,7,171
+"Atletico de Madrid",LaLiga,22,28.2,671,31,652
+"Bayer 04 Leverkusen",Bundesliga,28,24.6,349,12,320
+"Bayern Munich",Bundesliga,26,26.1,756,29,726
+"Besiktas JK","Turkish Super Lig",32,27.8,114,4,103
+"Bologna FC 1909","Serie A",30,25.9,131,4,121
+"Borussia Dortmund",Bundesliga,34,24.8,544,16,503
+"Borussia Monchengladbach",Bundesliga,28,25.6,244,9,232
+"Brentford FC","Premier League",31,24.6,180,6,169
+"Brighton & Hove Albion","Premier League",27,25.7,232,9,213
+"Burnley FC","Premier League",24,30.1,131,5,125
+"Cagliari Calcio","Serie A",28,27.4,132,5,122
+"Celta de Vigo",LaLiga,22,27.8,127,6,123
+"Chelsea FC","Premier League",27,26.9,802,30,737
+"Club Atletico River Plate","Liga Profesional",29,27.9,100,3,93
+"Club Brugge KV","Jupiler Pro League",30,24.3,150,5,137
+"Clube Atletico Mineiro","Brasileiro Serie A",29,27.5,89,3,76
+"Clube de Regatas do Flamengo","Brasileiro Serie A",32,27.4,134,4,117
+"Crystal Palace","Premier League",26,27.6,225,9,210
+"Dynamo Kyiv","Premier Liga",30,25.6,120,4,107
+"Eintracht Frankfurt",Bundesliga,32,25.6,180,6,163
+"Everton FC","Premier League",26,28.0,386,15,361
+"FC Barcelona",LaLiga,30,25.9,592,20,536
+"FC Girondins Bordeaux","Ligue 1",30,25.3,90,3,79
+"FC Metz","Ligue 1",29,25.3,89,3,80
+"FC Porto","Liga Bwin",27,26.6,239,9,218
+"Fenerbahce SK","Turkish Super Lig",32,25.5,114,4,103
+"Feyenoord Rotterdam",Eredivisie,28,23.6,101,4,96
+"FK Krasnodar","Premier Liga",24,27.8,102,4,98
+"Fulham FC",Championship,30,26.8,133,4,119
+"Galatasaray A.S.","Turkish Super Lig",31,26.8,99,3,86
+"Genoa CFC","Serie A",34,27.6,87,3,72
+"Getafe CF",LaLiga,25,27.3,141,6,135
+"GNK Dinamo Zagreb","Prva HNL",30,26.1,99,3,89
+"Hellas Verona","Serie A",26,26.9,98,4,89
+"Hertha BSC",Bundesliga,29,26.2,110,4,100
+"Inter Milan","Serie A",28,29.0,473,17,456
+"Juventus FC","Serie A",25,27.5,543,22,507
+"KRC Genk","Jupiler Pro League",25,23.3,121,5,112
+"Leeds United","Premier League",24,25.0,233,10,228
+"Leicester City","Premier League",28,27.1,493,18,447
+"Levante UD",LaLiga,27,28.1,89,3,82
+"Liverpool FC","Premier League",27,27.2,780,29,716
+"Lokomotiv Moscow","Premier Liga",29,25.0,87,3,78
+"LOSC Lille","Ligue 1",26,25.6,242,9,232
+"Manchester City","Premier League",24,27.1,970,40,921
+"Manchester United","Premier League",29,27.9,820,28,743
+"Newcastle United","Premier League",25,28.4,221,9,204
+"Norwich City","Premier League",28,25.5,168,6,154
+"OGC Nice","Ligue 1",27,24.1,203,8,189
+"Olympiacos Piraeus","Super League 1",32,26.5,102,3,88
+"Olympique Lyon","Ligue 1",29,25.6,302,10,286
+"Olympique Marseille","Ligue 1",27,24.0,225,8,211
+"Paris Saint-Germain","Ligue 1",36,26.1,891,25,801
+"PSV Eindhoven",Eredivisie,27,25.2,139,5,129
+"Rangers FC",Premiership,29,27.7,95,3,89
+"RB Leipzig",Bundesliga,29,24.1,448,15,408
+"RCD Espanyol Barcelona",LaLiga,25,27.7,92,4,84
+"Real Betis Balompie",LaLiga,28,28.7,199,7,182
+"Real Madrid",LaLiga,27,27.3,680,25,610
+"Real Sociedad",LaLiga,26,26.2,346,13,324
+"Red Bull Salzburg",Bundesliga,29,23.0,139,5,124
+"SC Braga","Liga Bwin",28,25.6,107,4,97
+"SC Freiburg",Bundesliga,26,25.5,119,5,112
+"Sevilla FC",LaLiga,26,28.3,374,14,341
+"Shakhtar Donetsk","Premier Liga",29,25.8,166,6,150
+"Sheffield United",Championship,28,27.9,112,4,103
+"SL Benfica","Liga Bwin",29,27.0,253,9,215
+"Sociedade Esportiva Palmeiras","Brasileiro Serie A",31,27.2,129,4,113
+"Southampton FC","Premier League",26,26.1,230,9,214
+"Spartak Moscow","Premier Liga",24,25.8,113,5,109
+"Sporting CP","Liga Bwin",24,25.7,178,7,170
+"SS Lazio","Serie A",33,27.6,280,8,258
+"SSC Napoli","Serie A",26,27.7,467,18,445
+"Stade Rennais FC","Ligue 1",28,23.7,183,7,176
+"Torino FC","Serie A",30,26.1,167,6,150
+"Tottenham Hotspur","Premier League",24,25.6,627,26,558
+"TSG 1899 Hoffenheim",Bundesliga,33,25.7,182,6,157
+"UC Sampdoria","Serie A",27,27.3,109,4,97
+"Udinese Calcio","Serie A",26,27.9,93,4,86
+"US Sassuolo","Serie A",27,27.4,195,7,179
+"Valencia CF",LaLiga,27,25.7,232,9,216
+"VfB Stuttgart",Bundesliga,33,23.5,157,5,140
+"VfL Wolfsburg",Bundesliga,32,25.3,257,8,233
+"Villarreal CF",LaLiga,26,28.1,301,12,283
+"Watford FC","Premier League",27,28.2,131,5,115
+"West Ham United","Premier League",24,28.9,319,13,308
+"Wolverhampton Wanderers","Premier League",24,26.4,346,14,332
+"Zenit St. Petersburg","Premier Liga",22,27.2,156,7,154
